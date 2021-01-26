@@ -1,5 +1,8 @@
 # Dolphin-Root
 
+| ![enter image description here](https://raw.githubusercontent.com/titenko/Dolphin-Root/master/Screenshots/Screenshot_1.png) |  ![enter image description here](https://raw.githubusercontent.com/titenko/Dolphin-Root/master/Screenshots/Screenshot_2.png)|
+|--|--|
+
 Dolphin is KDE's file manager that lets you navigate and browse the contents of your hard drives, USB sticks, SD cards, and more. Creating, moving, or deleting files and folders is simple and fast.
 
 Dolphin contains plenty of productivity features that will save you time. The multiple tabs and split view features allow navigating multiple folders at the same time, and you can easily drag and drop files between views to move or copy them. Dolphin's right-click menu provides with many quick actions that let you compress, share, and duplicate files, among many other things. You can also add your own custom actions.

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Dolphin Root
+Comment=Dolphin is KDE's file manager
+GenericName=Dolphin Root
+Keywords=Dolphin, File manager, Files
+Exec=pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY KDE_SESSION_VERSION=5 KDE_FULL_SESSION=true dolphin
+Terminal=false
+Type=Application
+Icon=system-file-manager
+X-DocPath=dolphin/index.html
+MimeType=inode/directory;
+InitialPreference=10
+X-DBUS-ServiceName=org.kde.dolphin
+X-KDE-Shortcuts=Meta+E
+StartupWMClass=dolphin
+Categories=System
+NoDisplay=false 

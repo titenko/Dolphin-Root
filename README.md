@@ -1,4 +1,4 @@
-# Dolphin-Root
+# Dolphin-Root-Mod
 
 | ![enter image description here](https://raw.githubusercontent.com/titenko/Dolphin-Root/master/Screenshots/Screenshot_1.png) |  ![enter image description here](https://raw.githubusercontent.com/titenko/Dolphin-Root/master/Screenshots/Screenshot_2.png)|
 |--|--|
